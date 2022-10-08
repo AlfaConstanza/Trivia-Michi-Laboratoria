@@ -1,0 +1,61 @@
+h1 {
+  font-size: 50px;
+  font-family: "Amatic SC", cursive;
+  color: orange;
+  margin-left: 280px;
+  margin-bottom: 85px;
+}
+
+h2 {
+  font-size: 25px;
+  font-family: "Poiret One", cursive;
+  color: orange;
+  margin-bottom: 50px;
+}
+
+h3 {
+  font-size: 20px;
+  font-family: "Poiret One", cursive;
+  color: white;
+  margin-bottom: 65px;
+}
+
+.pregunta-uno {
+  font-size: 20px;
+  font-family: "Poiret One", cursive;
+  color: white;
+  margin-bottom: 70px;
+}
+
+.pregunta-dos {
+  font-size: 20px;
+  font-family: "Poiret One", cursive;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+.imagen-borde {
+  border-radius: 20%;
+  border-color: orange;
+  border-width: 5px;
+  border-style: solid;
+  margin-bottom: 50px;
+}
+
+.imagen-borde2 {
+  border-radius: 20%;
+  border-color: orange;
+  border-width: 5px;
+  border-style: solid;
+  margin-bottom: 50px;
+}
+
+body {
+  margin-left: 300px;
+  margin-right: 10px;
+  margin-top: 0px;
+  margin-bottom: 150px;
+}
